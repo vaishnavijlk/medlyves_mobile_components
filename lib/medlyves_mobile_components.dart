@@ -1,7 +1,3 @@
 library medlyves_mobile_components;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export "./teleconsultation/load_file.dart";
